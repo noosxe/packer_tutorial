@@ -1,1 +1,1 @@
-docker_image = "ubuntu:bionic"
+docker_image = "ubuntu:xenial"
